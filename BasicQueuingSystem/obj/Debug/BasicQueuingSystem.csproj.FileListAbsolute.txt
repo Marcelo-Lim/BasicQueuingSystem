@@ -1,0 +1,12 @@
+C:\Users\Maureen Quizon\source\repos\BasicQueuingSystem\BasicQueuingSystem\bin\Debug\BasicQueuingSystem.exe.config
+C:\Users\Maureen Quizon\source\repos\BasicQueuingSystem\BasicQueuingSystem\bin\Debug\BasicQueuingSystem.exe
+C:\Users\Maureen Quizon\source\repos\BasicQueuingSystem\BasicQueuingSystem\bin\Debug\BasicQueuingSystem.pdb
+C:\Users\Maureen Quizon\source\repos\BasicQueuingSystem\BasicQueuingSystem\obj\Debug\BasicQueuingSystem.QueuingForm.resources
+C:\Users\Maureen Quizon\source\repos\BasicQueuingSystem\BasicQueuingSystem\obj\Debug\BasicQueuingSystem.CashierWindowQueue.resources
+C:\Users\Maureen Quizon\source\repos\BasicQueuingSystem\BasicQueuingSystem\obj\Debug\BasicQueuingSystem.Properties.Resources.resources
+C:\Users\Maureen Quizon\source\repos\BasicQueuingSystem\BasicQueuingSystem\obj\Debug\BasicQueuingSystem.csproj.GenerateResource.cache
+C:\Users\Maureen Quizon\source\repos\BasicQueuingSystem\BasicQueuingSystem\obj\Debug\BasicQueuingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Maureen Quizon\source\repos\BasicQueuingSystem\BasicQueuingSystem\obj\Debug\BasicQueuingSystem.exe
+C:\Users\Maureen Quizon\source\repos\BasicQueuingSystem\BasicQueuingSystem\obj\Debug\BasicQueuingSystem.pdb
+C:\Users\Maureen Quizon\source\repos\BasicQueuingSystem\BasicQueuingSystem\obj\Debug\BasicQueuingSystem.csprojAssemblyReference.cache
+C:\Users\Maureen Quizon\source\repos\BasicQueuingSystem\BasicQueuingSystem\obj\Debug\BasicQueuingSystem.CustomerViewForm.resources
